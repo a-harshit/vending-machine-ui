@@ -9,7 +9,7 @@ UI for Vending Machine
 
 ##### 1. Clone the repository
 ```
-Change directory to the destination
+Change directory to the repository
 ```
 
 ##### 3. Install Node Modules
